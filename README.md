@@ -1,6 +1,11 @@
 
 # Hi, I'm Nils 👋
 
-<img src="https://raw.githubusercontent.com/nils-werner/nils-werner/master/titlepage.png" alt="Waves with aliasing">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./titlepage-dark.png">
+  <img alt="Waves with aliasing" src="./titlepage.png">
+</picture>
 
-I'm a Audio DSP Engineer. My research focus are Audio Signal Processing, Lapped Transforms, Compressive Sensing, and Machine Learning.
+I'm a Audio DSP and Software Engineer.
+
+My research focus are Audio Signal Processing, Lapped Transforms, and Machine Learning.
